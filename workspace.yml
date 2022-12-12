@@ -1,0 +1,2 @@
+- name: json-to-file
+  uses: devops-actions/json-to-file@v1.0.0
