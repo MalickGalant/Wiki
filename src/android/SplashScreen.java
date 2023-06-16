@@ -17,7 +17,7 @@
        under the License.
 */
 
-package org.apache.cordova.splashscreen;
+package wiki.maliek.co.za.splashscreen;
 
 import android.app.Dialog;
 import android.app.ProgressDialog;
