@@ -47,7 +47,7 @@
   "author": "Apache Software Foundation",
   "license": "MIT",
   "devDependencies": {
-    "@cordova/eslint-config": "^3.0.0"
+    "@cordova/eslint-config": "^5.0.0"
   },
   "homepage": "https://github.com/apache/cordova-plugin-splashscreen#readme",
   "main": "index.js",
